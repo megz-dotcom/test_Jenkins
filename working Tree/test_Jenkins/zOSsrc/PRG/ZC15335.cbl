@@ -1,1 +1,1 @@
-//*This is zc15335.cbl file in prg
+//*This is zc15335.cbl file in prg.
