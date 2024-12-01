@@ -1,1 +1,0 @@
-//*This is p246783.cbl file in prg
